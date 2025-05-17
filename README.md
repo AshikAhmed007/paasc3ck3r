@@ -1,4 +1,4 @@
-# 🛡️ paasc3ck3r - Password Complexity Checker
+# 🛡️ paasch3ck3r - Password Complexity Checker
 
 ```
 ██████╗  █████╗  █████╗ ███████╗ ██████╗██╗  ██╗██████╗  ██████╗██╗  ██╗██████╗ ██████╗ 
@@ -40,8 +40,8 @@ Built with ❤️ by **Ashik Ahmed**.
 
 1. **Clone or download** the repository:
     ```bash
-    git clone https://github.com/your-username/paasc3ck3r.git
-    cd paasc3ck3r
+    git clone https://github.com/your-username/paasch3ck3r.git
+    cd paasch3ck3r
     ```
 
 2. **Install the required package**:
@@ -54,7 +54,8 @@ Built with ❤️ by **Ashik Ahmed**.
 ## 🚀 How to Run
 
 ```bash
-python paasc3ck3r.py
+chmod +x 
+python paasch3ck3r.py
 ```
 
 ---
