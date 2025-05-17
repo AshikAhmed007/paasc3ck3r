@@ -54,7 +54,7 @@ Built with ❤️ by **Ashik Ahmed**.
 ## 🚀 How to Run
 
 ```bash
-chmod +x 
+chmod +x paasch3ck3r.py
 python paasch3ck3r.py
 ```
 
